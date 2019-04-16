@@ -1,0 +1,6 @@
+commit 3b19db90bb7dcdcc1df5d0f7ea5dc756241ac628 (HEAD -> logs, 
+origin/master, master)
+Author: unknown <stefan.gjurcheski@students.finki.ukim.mk>
+Date:   Tue Apr 16 15:44:05 2019 +0200
+
+    Initial commit
